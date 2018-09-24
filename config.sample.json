@@ -1,0 +1,9 @@
+{
+  "mqtt": {
+    "host": "",
+    "username": "",
+    "password": "",
+    "topicRoot": ""
+  },
+  "intervalInMS": 60000
+}
